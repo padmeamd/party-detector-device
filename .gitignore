@@ -8,3 +8,4 @@ firmware/config.h
 .DS_Store
 .vscode/
 .idea/
+*.iml
