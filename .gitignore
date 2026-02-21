@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# secrets
+firmware/config.h
+# Arduino / IDE junk
+*.log
+.DS_Store
+.vscode/
+.idea/
