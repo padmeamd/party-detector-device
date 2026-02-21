@@ -38,4 +38,4 @@ This device sends alerts to:
 `POST /api/alerts`
 
 Backend repo:
-https://github.com/padmeamd/party-detector
+https://github.com/padmeamd/party-detector-backend
